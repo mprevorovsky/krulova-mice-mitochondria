@@ -1,0 +1,8 @@
+sample_ID	bam_file	mouse_ID	mitochondria_received
+VS1	./BAM_RNA-seq_mouse/VS1_1.fq.gz.trim.txt.gz.bam	1	0
+VS2	./BAM_RNA-seq_mouse/VS2_1.fq.gz.trim.txt.gz.bam	1	1
+VS3	./BAM_RNA-seq_mouse/VS3_1.fq.gz.trim.txt.gz.bam	2	0
+VS4	./BAM_RNA-seq_mouse/VS4_1.fq.gz.trim.txt.gz.bam	2	1
+VS5	./BAM_RNA-seq_mouse/VS5_1.fq.gz.trim.txt.gz.bam	3	0
+VS6	./BAM_RNA-seq_mouse/VS6_1.fq.gz.trim.txt.gz.bam	3	1
+
